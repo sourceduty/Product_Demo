@@ -128,7 +128,7 @@ By following this structured approach, the demonstration will effectively showca
 
 #### Interactive Guide to Sales Automation in a CRM Tool
 
-## Step 1: Introduction to Sales Automation
+#### Step 1: Introduction to Sales Automation
 **Overview:**
 - Sales automation involves using software to automate repetitive tasks in the sales process.
 - Benefits include increased efficiency, improved accuracy, and more time for sales reps to focus on selling.
