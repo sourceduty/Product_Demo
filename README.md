@@ -217,7 +217,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Conclusion
+#### Conclusion
 You have successfully set up and explored the Sales Automation features in your CRM tool. Use these automations to streamline your sales process, save time, and close more deals!
 
 <br>
