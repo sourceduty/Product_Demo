@@ -65,7 +65,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 
 ### Fitness Tracker Product Video Demonstration
 
-![Wheel Weight Plyers](https://github.com/user-attachments/assets/45c5fe82-bceb-452d-b48d-5f294781f81c)
+![Fitness Tracker](https://github.com/user-attachments/assets/cd1c4630-55de-494a-8b33-f21e9aa53033)
 
 #### Step 1: Identify the Target Audience
 - **Target Audience**: Fitness enthusiasts
