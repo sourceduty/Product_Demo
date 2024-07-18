@@ -18,6 +18,10 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 [Product Rating](https://github.com/sourceduty/Product_Rating)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Product Tester](https://github.com/sourceduty/Product_Tester)
+<br>
+[Food Design](https://github.com/sourceduty/Food_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
