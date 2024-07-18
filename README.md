@@ -16,7 +16,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 <details><summary>Wheel Weight Pliers Live Demo</summary>
 <br>
 
-### Live Demonstration Structure for Wheel Weight Pliers
+#### Live Demonstration Structure for Wheel Weight Pliers
 
 ![Wheel Weight Plyers](https://github.com/user-attachments/assets/876b7edf-4bbf-4f5b-8b47-05eb1c4efab0)
 
@@ -51,7 +51,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
    - Open the floor for questions from the audience.
    - Provide detailed answers and additional demonstrations as needed.
 
-### Preparation Checklist
+#### Preparation Checklist
 - Ensure the tool is clean and in good condition.
 - Prepare any additional materials or props needed for the demonstration.
 - Set up a well-lit and quiet environment for clear visibility and sound.
@@ -80,7 +80,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 #### Step 3: Preferred Demonstration Method
 - **Preferred Method**: Video demonstration
 
-### Step 4: Best Practices for Effective Demonstrations
+#### Step 4: Best Practices for Effective Demonstrations
 
 #### Script for Video Demonstration
 
@@ -113,7 +113,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
    - Encourage viewers to try the fitness tracker and see the improvements in their health and fitness journey.
    - Provide information on where to purchase the fitness tracker and any available discounts or promotions.
 
-### Final Notes:
+#### Final Notes:
 - Ensure the video is visually engaging with clear close-ups of the device and its interface.
 - Use real-life scenarios and testimonials to make the demonstration relatable.
 - Keep the video concise and focused, ideally within 5-7 minutes.
@@ -126,7 +126,7 @@ By following this structured approach, the demonstration will effectively showca
 <details><summary>Sales Automation in a CRM Tool Guide</summary>
 <br>
 
-# Interactive Guide to Sales Automation in a CRM Tool
+#### Interactive Guide to Sales Automation in a CRM Tool
 
 ## Step 1: Introduction to Sales Automation
 **Overview:**
@@ -139,7 +139,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Step 2: Setting Up Sales Pipelines
+#### Step 2: Setting Up Sales Pipelines
 **Creating a Pipeline:**
 1. Go to the Pipelines tab.
 2. Click on "Create New Pipeline."
@@ -152,7 +152,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Step 3: Automating Sales Tasks
+#### Step 3: Automating Sales Tasks
 **Follow-Up Emails:**
 1. Go to the Automation tab.
 2. Click on "Create New Automation."
@@ -170,7 +170,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Step 4: Tracking and Managing Leads
+#### Step 4: Tracking and Managing Leads
 **Capturing Leads:**
 1. Go to the Leads tab.
 2. Click on "Add New Lead."
@@ -185,7 +185,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Step 5: Monitoring Sales Performance
+#### Step 5: Monitoring Sales Performance
 **Generating Reports:**
 1. Go to the Reports tab.
 2. Choose the type of report (e.g., "Sales Pipeline Report").
@@ -199,7 +199,7 @@ By following this structured approach, the demonstration will effectively showca
 
 ---
 
-## Step 6: Integrating with Other Tools
+#### Step 6: Integrating with Other Tools
 **Email Integration:**
 1. Go to the Integrations tab.
 2. Select "Email Integration."
