@@ -13,7 +13,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 #
 ### Example Usage
 
-<details><summary>Wheel Weight Pliers</summary>
+<details><summary>Wheel Weight Pliers Live Demo</summary>
 <br>
 
 ### Live Demonstration Structure for Wheel Weight Pliers
@@ -60,7 +60,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 <br>
 </details>
 
-<details><summary>Fitness Tracker</summary>
+<details><summary>Fitness Tracker Demo Video</summary>
 <br>
 
 ### Fitness Tracker Product Video Demonstration
@@ -119,6 +119,106 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 - Keep the video concise and focused, ideally within 5-7 minutes.
 
 By following this structured approach, the demonstration will effectively showcase the fitness tracker’s features and appeal to the target audience of fitness enthusiasts.
+
+<br>
+</details>
+
+<details><summary>Sales Automation in a CRM Tool Guide</summary>
+<br>
+
+# Interactive Guide to Sales Automation in a CRM Tool
+
+## Step 1: Introduction to Sales Automation
+**Overview:**
+- Sales automation involves using software to automate repetitive tasks in the sales process.
+- Benefits include increased efficiency, improved accuracy, and more time for sales reps to focus on selling.
+
+**Getting Started:**
+- Access the CRM tool dashboard.
+- Navigate to the Sales Automation section.
+
+---
+
+## Step 2: Setting Up Sales Pipelines
+**Creating a Pipeline:**
+1. Go to the Pipelines tab.
+2. Click on "Create New Pipeline."
+3. Name your pipeline (e.g., "New Leads").
+
+**Customizing Stages:**
+1. Add stages by clicking "Add Stage."
+2. Name each stage (e.g., "Contacted," "Qualified," "Proposal Sent").
+3. Arrange the stages in the desired order.
+
+---
+
+## Step 3: Automating Sales Tasks
+**Follow-Up Emails:**
+1. Go to the Automation tab.
+2. Click on "Create New Automation."
+3. Choose "Follow-Up Email" from the options.
+4. Set triggers (e.g., "When a lead is added to the pipeline").
+5. Draft the follow-up email template.
+6. Save and activate the automation.
+
+**Task Assignments:**
+1. In the Automation tab, select "New Task Assignment."
+2. Set the trigger (e.g., "When a lead reaches the 'Qualified' stage").
+3. Assign the task to a specific team member.
+4. Define the task details (e.g., "Call the lead within 24 hours").
+5. Save and activate the automation.
+
+---
+
+## Step 4: Tracking and Managing Leads
+**Capturing Leads:**
+1. Go to the Leads tab.
+2. Click on "Add New Lead."
+3. Fill in lead details (e.g., name, contact info, source).
+4. Save the lead.
+
+**Lead Scoring:**
+1. Navigate to the Lead Scoring section.
+2. Define criteria for scoring (e.g., industry, budget, engagement level).
+3. Assign points to each criterion.
+4. Save the scoring model.
+
+---
+
+## Step 5: Monitoring Sales Performance
+**Generating Reports:**
+1. Go to the Reports tab.
+2. Choose the type of report (e.g., "Sales Pipeline Report").
+3. Select the date range and other filters.
+4. Click "Generate Report."
+
+**Tracking Metrics:**
+1. In the Reports tab, select "Key Performance Metrics."
+2. Choose metrics to track (e.g., conversion rate, average deal size).
+3. View the dashboard for real-time updates.
+
+---
+
+## Step 6: Integrating with Other Tools
+**Email Integration:**
+1. Go to the Integrations tab.
+2. Select "Email Integration."
+3. Connect your email account by following the prompts.
+
+**Calendar Integration:**
+1. In the Integrations tab, select "Calendar Integration."
+2. Choose your calendar provider (e.g., Google Calendar).
+3. Follow the steps to connect and sync your calendar.
+
+**Other Business Tools:**
+1. Browse the Integrations tab for other tools (e.g., Slack, Zoom).
+2. Click on the tool you want to integrate.
+3. Follow the instructions to complete the integration.
+
+---
+
+## Conclusion
+You have successfully set up and explored the Sales Automation features in your CRM tool. Use these automations to streamline your sales process, save time, and close more deals!
 
 <br>
 </details>
