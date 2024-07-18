@@ -18,7 +18,7 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 
 ### Live Demonstration Structure for Wheel Weight Pliers
 
-![Wheel Weight Plyers](https://github.com/user-attachments/assets/471648b4-e88e-4337-bda2-3ba281117d4a)
+![Wheel Weight Plyers](https://github.com/user-attachments/assets/876b7edf-4bbf-4f5b-8b47-05eb1c4efab0)
 
 #### Introduction
 1. **Introduction of the Tool**
@@ -60,10 +60,12 @@ Additionally, this GPT offers suggestions and best practices for conducting succ
 <br>
 </details>
 
-<details><summary>Fitness Tracker Product Demonstration</summary>
+<details><summary>Fitness Tracker</summary>
 <br>
 
-### Fitness Tracker Product Demonstration
+### Fitness Tracker Product Video Demonstration
+
+![Wheel Weight Plyers](https://github.com/user-attachments/assets/45c5fe82-bceb-452d-b48d-5f294781f81c)
 
 #### Step 1: Identify the Target Audience
 - **Target Audience**: Fitness enthusiasts
